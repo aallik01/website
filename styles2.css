@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+
+}
+
+h2 {
+    height: 250px;
+    width: 300px;
+    border: 10px solid black;
+    position: relative;
+    display: inline-block;
+    left: 85px;
+    bottom: 18px;
+
+}
+
+img {
+    height: 250px;
+    width: 300px;
+    border: 10px solid black;
+    position: relative;
+    display: inline-block;
+    left: 80px;
+    
+}
+
+.navbar {
+    margin: 0px;
+    background-color: lightgrey;
+    width: 187px;
+    height: 50px;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 50px;
+    display: inline-block;
+    text-align: center;
+    left: 90px;
+    position: relative;
+    font-size: 25px;
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+    left: 150px;
+}

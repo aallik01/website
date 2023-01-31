@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color:cornsilk;
+}
+
+img {
+    position: relative;
+    display: inline-block;
+    left: 800px;
+    bottom: 270px;
+    height: 250px;
+    width: 300px;
+}
+
+li {
+    position: relative;
+    left: 200px;
+}
+
+.navbar {
+    margin: 0px;
+    background-color: lightgrey;
+    width: 187px;
+    height: 50px;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 50px;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    font-size: 25px;
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+    left: 150px;
+    bottom: 250px;
+}

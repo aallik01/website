@@ -1,0 +1,114 @@
+
+
+.title {
+    font-size: 50px;
+    text-align: center;
+}
+
+body {
+    background-color:rgb(248, 255, 194)
+}
+
+h3 {
+    font-family: monospace;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+    border-radius: 100px;
+}
+
+.arg {
+    position:relative;
+    left: 400px;
+}
+
+div {
+    border: 1px;
+    padding: 10px;
+    width: 350px;
+    height: 200px;
+    text-align: justify;
+    position: relative;
+}
+
+.pc {
+    position: relative;
+    left: 200px;
+}
+
+.h1bf {
+    text-align: left;
+    position: relative;
+    left: 130px;
+    bottom: 20px;
+}
+
+.h1pc {
+    text-align: center;
+    position: relative;
+    bottom: 320px;
+}
+
+.h1arg {
+    text-align: right;
+    position: relative;
+    bottom:620px;
+    right: 100px;
+}
+
+
+.divpc {
+    position: relative;
+    left: 550px;
+    bottom: 300px;
+}
+
+.divarg {
+    text-align: right;
+    position: relative;
+    bottom:600px;
+    left: 1080px;
+}
+
+
+.am {
+    position: relative;
+    bottom: 700px;
+    left: 10px;
+}
+
+.sttlogo {
+    width: 250px;
+    height:250px;
+    position: relative;
+    bottom: 700px;
+}
+
+.abm {
+    float: right;
+    position: relative;
+    overflow: hidden;
+    left: 270px;
+    bottom: 1000px;
+}
+
+.navbar {
+    margin: 0px;
+    background-color: lightgrey;
+    width: 187px;
+    height: 50px;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 50px;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    bottom: 500px;
+    right: 150px;
+    font-size: 25px;
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+    left: 150px;
+}
+

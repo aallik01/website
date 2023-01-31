@@ -1,0 +1,47 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+form {
+    text-align: center;
+    position: relative;
+    bottom: 550px;
+}
+
+.ecu {
+    width: 500px;
+    height: 550px;
+    position: relative;
+    border: 10px solid black;
+    border-radius: 40px;
+
+}
+
+.nyc {
+    width: 500px;
+    height: 550px;
+    position: relative;
+    border: 10px solid black;
+    border-radius: 40px;
+    left: 400px;
+}
+
+.navbar {
+    margin: 0px;
+    background-color: lightgrey;
+    width: 187px;
+    height: 50px;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 50px;
+    display: inline-block;
+    position: relative;
+    font-size: 25px;
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+
